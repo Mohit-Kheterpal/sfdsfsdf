@@ -4,7 +4,9 @@ using System.Collections.Generic;
 
 using Foundation;
 using UIKit;
-
+//jhhjgjhgjhg
+//safdjsldfkjs
+//ldksfglskjfklsa
 namespace gvhnghngtyf
 {
 	// The UIApplicationDelegate for the application. This class is responsible for launching the
